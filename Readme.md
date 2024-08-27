@@ -17,9 +17,9 @@ Submit a Guess: Use the !submit_guess [guess] command to submit a guess and rece
 
 
 Requirements:-
-Rust
-Cargo
-A Discord bot token
+```Rust```
+```Cargo```
+```A Discord bot token```
 
 Usage:-
 ```!start_picture_puzzle```: Starts a new puzzle with a scrambled image.

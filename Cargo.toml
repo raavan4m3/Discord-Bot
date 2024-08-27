@@ -1,0 +1,16 @@
+[package]
+name = "discord-bot"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+async-trait = "0.1"
+reqwest = "0.11"  # HTTP client for downloading images
+tokio = { version = "1", features = ["full"] }
+serenity = { version = "0.11", features = ["client", "framework", "model", "standard_framework","collector"] }
+futures = "0.3"
+dotenv = "0.15"  # For loading environment variables
+image = "0.24"  # Image manipulation
+rand = "0.8"  # Random number generation
+imageproc = "0.23"  # Image processing (optional, depending on usage)
+rusttype = "0.9"  # Font drawing (optional, depending on usage)

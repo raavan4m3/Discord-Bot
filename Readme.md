@@ -1,6 +1,9 @@
 Discord Puzzle Bot
 Overview
 The Discord Puzzle Bot is an engaging and interactive bot designed for Discord servers to play a picture puzzle game. Users can start a puzzle, swap tiles to solve it, and track their scores. The bot is easy to set up and integrates seamlessly with Discord to provide a fun and interactive experience for users.
+## Demo Video
+
+[![Watch the video]](https://drive.google.com/file/d/1jnXaqI-kD7Pe1zsrWPHeS4M5oc2i8fja/view?usp=drive_link)
 
 Why Adopt This Tool?
 Interactive Gameplay: Adds a unique and entertaining puzzle game to your Discord server, keeping members engaged and having fun.

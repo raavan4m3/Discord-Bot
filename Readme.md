@@ -16,6 +16,15 @@ Swap Tiles: Use the !swap_tiles [index1] [index2] command to swap two tiles in t
 Submit a Guess: Use the !submit_guess [guess] command to submit a guess and receive feedback on its correctness.
 
 
+```.env File```
+The ```.env ```file is used to store environment variables that are essential for running the bot, such as your Discord bot token. To use the bot, follow these steps:
+
+Create a .```env ```File: In the root directory of your project, create a file named .env.
+Add Your Token: Open the ```.env``` file and add your Discord bot token in the following format:
+```DISCORD_TOKEN=your-discord-bot-token```
+Replace your-discord-bot-token with your actual bot token.
+```Keep It Private: Ensure the .env file is not included in version control by adding it to your .gitignore file. This prevents sensitive information from being pushed to public repositories.```
+
 Requirements:-
 ```Rust```
 ```Cargo```

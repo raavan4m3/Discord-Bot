@@ -28,6 +28,6 @@ Usage:-
 
 
 Acknowledgments:-
-Serenity - Discord API library for Rust
-Reqwest - HTTP client for Rust
-Image - Image processing library for Rust.
+```Serenity``` - Discord API library for Rust
+```Reqwest``` - HTTP client for Rust
+```Image``` - Image processing library for Rust.

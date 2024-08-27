@@ -24,7 +24,7 @@ A Discord bot token
 Usage:-
 ```!start_picture_puzzle```: Starts a new puzzle with a scrambled image.
 ```!submit_guess [guess]```: Submits a guess for the puzzle.
-```!swap_tiles [index1] [index2]```: Swaps two tiles in the puzzle
+```!swap_tiles [index1] [index2]```: Swaps two tiles in the puzzle. Example ```!swap_tiles 3 4```
 
 
 Acknowledgments:-
